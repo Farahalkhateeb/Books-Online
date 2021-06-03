@@ -56,7 +56,7 @@ console.log(y !== x);
 // > 
 // <=
 
-var age = 25;
+var page = 200;
 
 // 6- conditional statement 
 // if(condition){
@@ -65,10 +65,10 @@ var age = 25;
 //   if false do this code 
 // }
 
-if (userAge <= 25) {
-  alert("hello")
+if (userName <= 25) {
+  alert("its fantasic")
 } else {
-  alert("Hi")
+  alert("you have to read it")
 }
 
     // if(condition 1){
@@ -79,10 +79,10 @@ if (userAge <= 25) {
     //    if both conditions were false do this code 
     // }
 
-if (age <= 25) {
-  alert("hello")
-} else if(age > 25) {
-  alert("Hi")
+if (page <= 200) {
+  alert("its fantastic")
+} else if(page > 200) {
+  alert("you have to read it")
 }else{
   alert("welcome")
 }
@@ -90,8 +90,8 @@ if (age <= 25) {
 
 
 
-var userAge = prompt("Enter your age ? ");
-console.log(userAge);
+var userName = prompt("Enter how many pages you want ? ");
+console.log(userName);
 // userAge == 25 
 
 
