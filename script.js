@@ -57,7 +57,11 @@ console.log(y !== x);
 // <=
 
 var page = 200;
+<<<<<<< HEAD
 var userpage
+=======
+
+>>>>>>> abf007cb7aacb878656187543070cd41588678e0
 // 6- conditional statement 
 // if(condition){
 //   if true do this code 
@@ -65,7 +69,11 @@ var userpage
 //   if false do this code 
 // }
 
+<<<<<<< HEAD
 if (userpage <= 200) {
+=======
+if (userName <= 25) {
+>>>>>>> abf007cb7aacb878656187543070cd41588678e0
   alert("its fantasic")
 } else {
   alert("you have to read it")
@@ -90,8 +98,13 @@ if (page <= 200) {
 
 
 
+<<<<<<< HEAD
 var userpage = prompt("Enter how many pages you want ? ");
 console.log(userpage);
+=======
+var userName = prompt("Enter how many pages you want ? ");
+console.log(userName);
+>>>>>>> abf007cb7aacb878656187543070cd41588678e0
 // userAge == 25 
 
 
