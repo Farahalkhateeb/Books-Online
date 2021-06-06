@@ -57,11 +57,19 @@ console.log(y !== x);
 // <=
 
 var page = 200;
+<<<<<<< HEAD
 
 var userpage
 
 
 
+=======
+<<<<<<< HEAD
+var userpage
+=======
+
+>>>>>>> abf007cb7aacb878656187543070cd41588678e0
+>>>>>>> 779eb5bb984034b5f10055ddf9673022aa70bd51
 // 6- conditional statement 
 // if(condition){
 //   if true do this code 
@@ -69,6 +77,7 @@ var userpage
 //   if false do this code 
 // }
 
+<<<<<<< HEAD
 
 //if (userpage <= 200) {
 
@@ -78,6 +87,17 @@ var userpage
  //else {
   //alert("you have to read it")
 
+=======
+<<<<<<< HEAD
+if (userpage <= 200) {
+=======
+if (userName <= 25) {
+>>>>>>> abf007cb7aacb878656187543070cd41588678e0
+  alert("its fantasic")
+} else {
+  alert("you have to read it")
+}
+>>>>>>> 779eb5bb984034b5f10055ddf9673022aa70bd51
 
     // if(condition 1){
     //   if true do this code 1
@@ -98,12 +118,22 @@ var userpage
 
 
 
+<<<<<<< HEAD
 var userpage = prompt("Enter how many pages you want ? ");
 console.log(userpage);
 
 var userName = prompt(" how many pages you want ? ");
 console.log(userName);
 
+=======
+<<<<<<< HEAD
+var userpage = prompt("Enter how many pages you want ? ");
+console.log(userpage);
+=======
+var userName = prompt("Enter how many pages you want ? ");
+console.log(userName);
+>>>>>>> abf007cb7aacb878656187543070cd41588678e0
+>>>>>>> 779eb5bb984034b5f10055ddf9673022aa70bd51
 // userAge == 25 
 
 var favBook=prompt("what is your favourite book from ourlibrary?" )
